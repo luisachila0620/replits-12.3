@@ -5,4 +5,4 @@ def type_list(items):
         return items
 
 new_list = list(map(type_list, list_Strings))
-print(list,(new_list,))
+print(new_list)
